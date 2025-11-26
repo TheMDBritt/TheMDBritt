@@ -1,16 +1,40 @@
-## Hi there 👋
+# Malcolm D. Britt  
+**Cybersecurity Graduate Student | Vulnerability Analysis | Workflow Automation | Linux | NIST CSF**
 
-<!--
-**TheMDBritt/TheMDBritt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Welcome  
+I’m a cybersecurity graduate student focused on hands-on security work, including vulnerability scanning, penetration testing fundamentals, automation, and system analysis. I enjoy building practical projects that strengthen real-world cybersecurity understanding.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Cybersecurity Skills
+- Kali Linux, Metasploit, Wireshark  
+- Vulnerability Scanning & Penetration Testing Fundamentals  
+- Log Analysis & Incident Response Basics  
+- Linux Installation & Configuration  
+- NIST Cybersecurity Framework  
+- Microsoft Power Automate  
+- C++, HTML  
+
+---
+
+## 📂 Projects & Experience
+
+### 🛠️ Plasser American — Security & Automation Internship  
+Documented here:  
+https://github.com/theMDBritt/portfolio/tree/main/internship-plasser-american
+
+- Authorized system scanning using Kali Linux  
+- Automated workflows using Power Automate  
+- Data structuring and engineering support  
+
+---
+
+## 🎓 Education
+**M.S. Cybersecurity**, Norfolk State University (2025)  
+**B.S. Cybersecurity**, Old Dominion University (2023)
+
+---
+
+## 📬 Contact
+**Email:** malcolmbritt12@gmail.com  
+**LinkedIn:** www.linkedin.com/in/malcolm-britt-b7157026a
