@@ -10,6 +10,8 @@ Norfolk, VA · [malcolmbritt12@gmail.com](mailto:malcolmbritt12@gmail.com) · [L
 
 IAM-focused cybersecurity analyst with hands-on experience administering identity lifecycle (joiner / mover / leaver), access governance, and RBAC across Active Directory and Okta. Background spans incident triage, authentication anomaly investigation, EDR and SIEM telemetry analysis, and vulnerability remediation tracking in enterprise environments.
 
+I'm dual-certified on Okta (Certified Professional and Certified Administrator) and earned both by building and operating live orgs end-to-end, not by memorizing flashcards. The work in [TheMDBritt/okta](https://github.com/TheMDBritt/okta) is the same model I built to study against, extended with custom Okta User Types, CSV Directory provisioning, group-rule-driven JML, and SSO. The certs validated what the lab already proved.
+
 Currently targeting **SOC Analyst, IAM Analyst, Access Governance Analyst, and Cybersecurity Analyst I** roles.
 
 ---
@@ -21,15 +23,15 @@ Currently targeting **SOC Analyst, IAM Analyst, Access Governance Analyst, and C
 - CompTIA Security+
 - CompTIA Security Analytics Professional (CSAP)
 - ISC2 Certified in Cybersecurity (CC)
-- Okta Certified Professional
-- Okta Certified Administrator
+- **Okta Certified Professional**
+- **Okta Certified Administrator**
 
 ---
 
 ## Core Skills
 
 **Identity & Access Management**
-Active Directory, Okta, Identity Lifecycle Management (JML), Role-Based Access Control (RBAC), Access Governance & Certifications, SSO, MFA, Least Privilege Enforcement
+Active Directory, Okta, Identity Lifecycle Management (JML), Role-Based Access Control (RBAC), Access Governance & Certifications, SSO, MFA, Least Privilege Enforcement, Custom Okta User Types, Group Rules, CSV Directory Provisioning
 
 **Security Operations**
 SIEM Log Analysis, Endpoint Detection & Response (EDR), Incident Response & Triage, Authentication Anomaly Investigation, Vulnerability Management
@@ -38,29 +40,29 @@ SIEM Log Analysis, Endpoint Detection & Response (EDR), Incident Response & Tria
 Prompt Injection Defense, LLM Guardrails, MITRE ATLAS Mapping
 
 **Tools & Platforms**
-Windows Server, Jira, Confluence, Microsoft Power Automate
+Windows Server, Active Directory, Okta, Jira, Confluence, Microsoft Power Automate, PowerShell
 
 ---
 
 ## Featured Projects
 
 ### NFL Front Office RBAC & Privileged Access Management
-Role-based access control model built in Active Directory across simulated front-office departments. Enforces separation of duties, least-privilege, and tiered privileged access. Standard vs. privileged account separation restricts access to sensitive resources and reduces insider threat exposure.
-**Stack:** Active Directory, Windows Server, RBAC, PAM
+Role-based access control model built in Active Directory across simulated NFL front-office departments (Athletes, Captains, Coaches, Trainers, Compliance). Enforces separation of duties, least-privilege, and tiered privileged access using AGDLP nesting. Standard vs. privileged account separation restricts access to sensitive resources, and a dedicated `NCAA_Disabled` OU drives the offboarding workflow.
+**Stack:** Active Directory, Windows Server, RBAC, PAM, AGDLP
 **Repository:** [NFL-RBAC-AD](https://github.com/TheMDBritt/NFL-RBAC-AD)
 
-### Okta IAM Group Rules & Access Automation (NFL Linebacker Model)
-Live Okta org administering core IAM functions: user lifecycle (joiner / mover / leaver), group-rule-driven provisioning, MFA policy enforcement, and SSO integrations to target applications. RBAC and least-privilege enforcement validated end-to-end with access certification documentation.
-**Stack:** Okta, SAML / OIDC, SCIM, Group Rules
+### Okta IAM Group Rules & Access Automation (Linebacker Model)
+Live Okta org administering core IAM functions: a custom `LB` (Linebackers) Okta User Type with custom attributes (`LBType`, `Position`), CSV Directory provisioning, group-rule-driven JML, MFA policy enforcement, and SSO integrations. The lab the Okta certifications were earned against.
+**Stack:** Okta, Custom User Types, CSV Directory, Group Rules, SAML / OIDC, MFA
 **Repository:** [okta](https://github.com/TheMDBritt/okta)
 
 ### LLM Security Dojo (AI Security & Prompt Injection Defense)
 Multi-module AI security training platform simulating prompt injection, data exfiltration, and policy bypass attacks against a live LLM. Defender controls include guardrail configuration, injection shielding, and compensating controls mapped to MITRE ATLAS tactics.
 **Stack:** TypeScript, LLM Guardrails, MITRE ATLAS
-*Private repository. Walkthrough available on request.*
+**Repository:** [SecuringAI](https://github.com/TheMDBritt/SecuringAI)
 
 ### Cybersecurity Home Labs
-Self-built lab environments covering Linux hardening, Active Directory deployment, log analysis, and detection scenarios.
+Self-built lab environments covering Active Directory deployment, Linux hardening, log analysis, and detection scenarios.
 **Repository:** [Cyber-Labs](https://github.com/TheMDBritt/Cyber-Labs)
 
 ### Portfolio
