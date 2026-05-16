@@ -8,11 +8,11 @@ Norfolk, VA · [malcolmbritt12@gmail.com](mailto:malcolmbritt12@gmail.com) · [L
 
 ## About
 
-IAM-focused cybersecurity analyst with hands-on experience administering identity lifecycle (joiner, mover, leaver), access governance, and RBAC across Active Directory and Okta. Background spans incident triage, authentication anomaly investigation, EDR and SIEM telemetry analysis, and vulnerability remediation tracking in enterprise environments.
+IAM-focused cybersecurity professional with hands-on experience administering identity lifecycle (joiner, mover, leaver), access governance, and RBAC across Active Directory and Okta. Background spans incident triage, authentication anomaly investigation, SIEM telemetry analysis, and vulnerability remediation tracking in enterprise environments. Holds an interim **Secret clearance** and an **MS in Cybersecurity**.
 
-Both Okta certifications were earned by building and operating a live org end-to-end. That same org lives in [TheMDBritt/okta](https://github.com/TheMDBritt/okta).
+Both Okta certifications were earned by building and operating a live org end-to-end. That same org is documented in [TheMDBritt/okta](https://github.com/TheMDBritt/okta).
 
-Currently targeting **SOC Analyst, IAM Analyst, Access Governance Analyst, and Cybersecurity Analyst I** roles.
+Currently working as an IS & Cybersecurity Specialist at **SimIS Inc** (defense contractor) and targeting **IAM Analyst, Access Governance Analyst, SOC Analyst, and Cybersecurity Analyst** roles.
 
 ---
 
@@ -21,8 +21,6 @@ Currently targeting **SOC Analyst, IAM Analyst, Access Governance Analyst, and C
 - CompTIA SecurityX (CASP+)
 - CompTIA CySA+
 - CompTIA Security+
-- CompTIA Security Analytics Professional (CSAP)
-- ISC2 Certified in Cybersecurity (CC)
 - Okta Certified Professional
 - Okta Certified Administrator
 
@@ -31,63 +29,65 @@ Currently targeting **SOC Analyst, IAM Analyst, Access Governance Analyst, and C
 ## Core Skills
 
 **Identity and Access Management**
-Active Directory, Okta, identity lifecycle management, RBAC, access governance and certifications, SSO, MFA, least-privilege enforcement, custom Okta User Types, group rules, CSV Directory provisioning
+Active Directory, Okta, identity lifecycle management, RBAC, access governance and certifications, SSO (SAML / OIDC), MFA, least-privilege enforcement, custom Okta User Types, group rules, CSV Directory provisioning
 
 **Security Operations**
-SIEM log analysis, EDR, incident response and triage, authentication anomaly investigation, vulnerability management
+SIEM log analysis, EDR, incident response and triage, authentication anomaly investigation, vulnerability management, phishing campaign operations
 
 **AI Security**
 Prompt injection defense, LLM guardrails, MITRE ATLAS mapping
 
 **Tools and Platforms**
-Windows Server, Active Directory, Okta, Jira, Confluence, Microsoft Power Automate, PowerShell
+Windows Server, Active Directory, Okta, Jira, Confluence, Microsoft Power Automate, PowerShell, Kali Linux, VirtualBox
 
 ---
 
 ## Featured Projects
 
-### NFL Front Office RBAC and Privileged Access Management
-Role-based access control model built in Active Directory across simulated NFL front-office departments (Athletes, Captains, Coaches, Trainers, Compliance). Enforces separation of duties, least-privilege, and tiered privileged access using AGDLP nesting. A dedicated `NCAA_Disabled` OU drives the offboarding workflow.
-**Stack:** Active Directory, Windows Server, RBAC, PAM, AGDLP
-**Repository:** [NFL-RBAC-AD](https://github.com/TheMDBritt/NFL-RBAC-AD)
-
-### Okta IAM Group Rules and Access Automation (Linebacker Model)
-Live Okta org administering core IAM functions: a custom `LB` (Linebackers) Okta User Type with custom attributes (`LBType`, `Position`), CSV Directory provisioning, group-rule-driven JML, MFA policy enforcement, and SSO integrations. The lab the Okta certifications were earned against.
+### Okta Identity Lifecycle Lab
+Live Okta developer tenant covering user lifecycle management, dynamic group rules, MFA policies, SSO (SAML / OIDC), and automated app provisioning / deprovisioning. Joiner / mover / leaver workflows validated end-to-end, along with all four UC use cases required for the Okta Certified Administrator performance exam.
 **Stack:** Okta, custom user types, CSV Directory, group rules, SAML, OIDC, MFA
 **Repository:** [okta](https://github.com/TheMDBritt/okta)
 
-### LLM Security Dojo (AI Security and Prompt Injection Defense)
-Multi-module AI security training platform simulating prompt injection, data exfiltration, and policy bypass attacks against a live LLM. Defender controls include guardrail configuration, injection shielding, and compensating controls mapped to MITRE ATLAS tactics.
-**Stack:** TypeScript, LLM guardrails, MITRE ATLAS
+### LLM Dojo (AI Security Training Platform)
+Three-module browser-based platform covering LLM attack / defense, AI-assisted SOC scenarios, and AI governance / risk / compliance — aligned to SecAI+ Domain 4 objectives. Simulates prompt injection, data exfiltration, policy bypass, and tool abuse with defensive guardrail toggles and scoring mapped to OWASP LLM Top 10 and MITRE ATT&CK.
+**Stack:** Next.js, TypeScript, LLM guardrails, MITRE ATT&CK / ATLAS
 **Repository:** [SecuringAI](https://github.com/TheMDBritt/SecuringAI)
 
-### Cybersecurity Home Labs
-Self-built lab environments covering Active Directory deployment, Linux hardening, log analysis, and detection scenarios.
+### Cybersecurity Home Lab
+Multi-VM VirtualBox environment with an Active Directory domain controller, SIEM, Windows client, and Kali Linux. Used to practice IAM lifecycle operations, log analysis, group policy enforcement, and attack / detection workflows. Mirrors infrastructure found in defense-contractor and federal IT environments.
+**Stack:** Active Directory, Windows Server, SIEM, Kali Linux, VirtualBox
 **Repository:** [Cyber-Labs](https://github.com/TheMDBritt/Cyber-Labs)
 
 ### Portfolio
-Capstone work, internship deliverables, and project documentation across academic and professional engagements.
+Graduate capstone (cybersecurity measures in sports-betting platforms — MFA, IDS, fraud monitoring across a 5-VM simulated sportsbook) and internship deliverables from Plasser American.
 **Repository:** [Portfolio](https://github.com/TheMDBritt/Portfolio)
 
 ---
 
 ## Experience
 
-**SimIS Inc** · IS and Cybersecurity Specialist Intern · Suffolk, VA · 2026 to Present
-IAM lifecycle administration for Windows accounts, EDR posture monitoring, security log analysis, and incident triage with compliance-aligned documentation.
+**SimIS Inc** · Information Systems (IS) & Cybersecurity Specialist · Suffolk, VA · 2026 to Present
+IAM lifecycle administration for Windows accounts, endpoint security posture monitoring, system and security log analysis for authentication anomalies, vulnerability patching, and phishing campaign operations in support of organizational compliance.
 
 **Norfolk State University** · SPARC IT Support and Operations Assistant · 2025
-Active Directory IAM operations for 100+ users, ticket-based incident triage, root-cause analysis driving repeat-escalation reduction, and end-user technical training.
+Full IAM lifecycle for 50+ users across academic and administrative systems; audit-ready least-privilege records; incident triage for 100+ faculty, staff, and students; end-user technical training and documentation.
 
 **Norfolk State University** · Information Systems Graduate Assistant · 2024
-Access governance across multiple systems, user access reviews supporting two institutional audit cycles, and least-privilege enforcement across Microsoft and Linux environments.
+User access reviews validating entitlements against role requirements; compliance documentation supporting two institutional audit cycles; Windows IAM operations and Linux authentication log analysis.
 
-**Plasser American** · Cybersecurity and Systems Analyst Intern · Chesapeake, VA · 2023
-Vulnerability triage and remediation tracking for 20+ findings in Jira, enterprise security configuration assessments, and Power Automate workflow automation with Confluence documentation.
+**Plasser American** · Cybersecurity and Systems Analyst Intern · Norfolk, VA · 2023
+Vulnerability tracking for 20+ findings in Jira with prioritized findings reports; security configuration assessments; workflow documentation in Confluence for technical and non-technical stakeholders.
 
 ---
 
 ## Education
 
-**M.S. Cybersecurity** · Norfolk State University · GPA 3.7 · 2025
-**B.S. Cybersecurity** · Old Dominion University · GPA 3.8 · 2023
+**M.S. Cybersecurity** · Norfolk State University · 2025
+**B.S. Cybersecurity** · Old Dominion University · 2023
+
+---
+
+## Languages
+
+Spanish — Intermediate (spoken, written, read)
