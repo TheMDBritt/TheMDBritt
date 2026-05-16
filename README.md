@@ -10,7 +10,7 @@ Norfolk, VA · [malcolmbritt12@gmail.com](mailto:malcolmbritt12@gmail.com) · [L
 
 IAM-focused cybersecurity analyst with hands-on experience administering identity lifecycle (joiner, mover, leaver), access governance, and RBAC across Active Directory and Okta. Background spans incident triage, authentication anomaly investigation, EDR and SIEM telemetry analysis, and vulnerability remediation tracking in enterprise environments.
 
-Both Okta certifications were earned by building and operating a live org end-to-end. That same org lives in [TheMDBritt/okta](https://github.com/TheMDBritt/okta).
+Both Okta certifications were earned by building and operating a live org end-to-end. 
 
 Currently targeting **SOC Analyst, IAM Analyst, Access Governance Analyst, and Cybersecurity Analyst I** roles.
 
