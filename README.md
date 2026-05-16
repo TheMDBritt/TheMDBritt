@@ -51,7 +51,7 @@ Windows Server, Active Directory, Okta, Jira, Confluence, Microsoft Power Automa
 ### Okta IAM Group Rules and Access Automation (Linebacker Model)
 Live Okta org administering core IAM functions: a custom `LB` (Linebackers) Okta User Type with custom attributes (`LBType`, `Position`), CSV Directory provisioning, group-rule-driven JML, MFA policy enforcement, and SSO integrations. The lab the Okta certifications were earned against.
 **Stack:** Okta, custom user types, CSV Directory, group rules, SAML, OIDC, MFA
-**Repository:** [okta](https://github.com/TheMDBritt/okta)
+**Repository:**
 
 ### LLM Security Dojo (AI Security and Prompt Injection Defense)
 Multi-module AI security training platform simulating prompt injection, data exfiltration, and policy bypass attacks against a live LLM. Defender controls include guardrail configuration, injection shielding, and compensating controls mapped to MITRE ATLAS tactics.
