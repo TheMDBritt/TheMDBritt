@@ -46,10 +46,7 @@ Windows Server, Active Directory, Okta, Jira, Confluence, Microsoft Power Automa
 
 ## Featured Projects
 
-### NFL Front Office RBAC and Privileged Access Management
-Role-based access control model built in Active Directory across simulated NFL front-office departments (Athletes, Captains, Coaches, Trainers, Compliance). Enforces separation of duties, least-privilege, and tiered privileged access using AGDLP nesting. A dedicated `NCAA_Disabled` OU drives the offboarding workflow.
-**Stack:** Active Directory, Windows Server, RBAC, PAM, AGDLP
-**Repository:** [NFL-RBAC-AD](https://github.com/TheMDBritt/NFL-RBAC-AD)
+
 
 ### Okta IAM Group Rules and Access Automation (Linebacker Model)
 Live Okta org administering core IAM functions: a custom `LB` (Linebackers) Okta User Type with custom attributes (`LBType`, `Position`), CSV Directory provisioning, group-rule-driven JML, MFA policy enforcement, and SSO integrations. The lab the Okta certifications were earned against.
