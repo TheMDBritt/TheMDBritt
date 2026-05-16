@@ -21,8 +21,6 @@ Currently targeting **SOC Analyst, IAM Analyst, Access Governance Analyst, and C
 - CompTIA SecurityX (CASP+)
 - CompTIA CySA+
 - CompTIA Security+
-- CompTIA Security Analytics Professional (CSAP)
-- ISC2 Certified in Cybersecurity (CC)
 - Okta Certified Professional
 - Okta Certified Administrator
 
